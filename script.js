@@ -48,7 +48,7 @@ storiyan.addEventListener("click",function(e){
 
 
 
-// MI kela ahe ugach kah trii
+// Nothing just extra work..reference
 let love = document.querySelector(".icon1");
 let cmt =  document.querySelector(".icon2");
 
